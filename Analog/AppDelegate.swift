@@ -1,10 +1,4 @@
-//
-//  AppDelegate.swift
-//  Analog
-//
-//  Created by Ankur Jain on 18/05/16.
-//  Copyright © 2016 Tanisha. All rights reserved.
-//
+
 
 import UIKit
 
